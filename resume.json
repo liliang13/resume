@@ -1,26 +1,26 @@
 {
   "data_lang": "zh-CN",
-  "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
-  "repo": "https://github.com/joyeecheung/resume.git",
+  "ga_id": "",
+  "resume_title": "李亮的个人简历",
+  "name": "李亮",
+  "repo": "https://github.com/liliang13/resume.git",
   "job_description": ["前端工程师", "软件工程师"],
   "contact": {
-    "phone": "13824481874",
-    "email": "joyeec9h3@gmail.com",
+    "phone": "137-2237-9986",
+    "email": "liliang0310@gmail.com",
     "wechat": {
-      "id": "joyee-cheung",
+      "id": "liliang13",
       "qrcode": "static/wechat.svg"
     },
     "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
+      "id": "liliang13",
+      "url": "http://weibo.com/liliang13"
     },
     "github": {
-      "id": "joyeecheung"
+      "id": "liliang13"
     },
     "blog": {
-      "url": "http://joyeecheung.cnblogs.com"
+      "url": "http://liliang13.com"
     }
   },
   "links": [{
